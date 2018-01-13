@@ -1,4 +1,3 @@
-led output
 /dist
 /tmp
 /executor/tmp/
@@ -39,4 +38,4 @@ testem.log
 Thumbs.db
 
 # python
-
+*.pyc
