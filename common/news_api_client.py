@@ -6,7 +6,7 @@ from json import loads
 # ARTICALS_API = 'top-headlines'
 
 NEWS_API_ENDPOINT = 'https://newsapi.org/v1/'
-NEWS_API_KEY = '82042f967da0406586c45a637f9f7191'
+NEWS_API_KEY = '5f7f69dc0c9343c2bbd6c2e027af2190'
 ARTICALS_API = 'articles'
 
 CNN = 'cnn'
