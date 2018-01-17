@@ -7,3 +7,7 @@ pika
 redis
 requests
 sklearn
+numpy
+scipy
+tensorflow
+watchdog

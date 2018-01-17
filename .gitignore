@@ -40,3 +40,6 @@ Thumbs.db
 # python
 *.pyc
 *.rdb
+
+
+/news_topic_modeling_service/model
